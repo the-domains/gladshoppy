@@ -1,7 +1,7 @@
 name: GladShoppy
 favicon: null
-layout_spectrum: 0.8447314198128879
-typography_spectrum: 0.7947326560970396
+layout_spectrum: 0.55264
+typography_spectrum: 0.24313
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#a48873'
     - '#241e1e'
     - '#fce000'
-  brandStrength: 0.2182395753916353
-  lightness: 0.9603332662954926
-  saturation: 0.11883023497648537
+  brandStrength: 0.6875
+  lightness: 0.4375
+  saturation: 0.3125
   rhythmicContrast: 0.46910336310975254
 purpose: []
