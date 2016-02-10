@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[GladShoppy]]></title>
         <description><![CDATA[GladShoppy]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/gladshoppy/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 10 Feb 2016 19:56:41 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 10 Feb 2016 20:42:08 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/gladshoppy/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/03e80f4e-7e20-4bf1-98d0-6e79b0c1ba55.jpg">]]></description>
+            <link>https://thegrid.ai/gladshoppy/8a31107d-417b-417b-8d17-2b4df667f671/index.html</link>
+            <guid isPermaLink="false">8a31107d-417b-417b-8d17-2b4df667f671</guid>
+            <pubDate>Wed, 10 Feb 2016 20:41:54 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8885f804-94df-4ea0-b2c6-a03966c36ee8.jpg">]]></description>
-            <link>undefined9ca5b4ee-87fd-4c3f-a653-f4507c6fbece/index.html</link>
+            <link>https://thegrid.ai/gladshoppy/9ca5b4ee-87fd-4c3f-a653-f4507c6fbece/index.html</link>
             <guid isPermaLink="false">9ca5b4ee-87fd-4c3f-a653-f4507c6fbece</guid>
             <pubDate>Wed, 10 Feb 2016 19:56:41 GMT</pubDate>
         </item>
