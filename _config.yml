@@ -2,6 +2,7 @@ name: GladShoppy
 favicon: null
 layout_spectrum: 0.55264
 typography_spectrum: 0.24313
+title: GladShoppy
 cta:
   domain: null
   bucket: null
